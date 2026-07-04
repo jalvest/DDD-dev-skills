@@ -1,8 +1,8 @@
 {
   "mcpServers": {
     "sample-mcp-tool": {
-      "command": "python -m",
-      "args": ["resources/mcps/01-sample-tool/tool.py"]
+      "command": "python",
+      "args": ["-m","resources/mcps/01-sample-tool/tool.py"]
     }
   }
 }
